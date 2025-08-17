@@ -1,0 +1,11 @@
+transformers>=4.44,<5
+accelerate>=0.30
+bitsandbytes>=0.43
+datasets>=2.20
+evaluate>=0.4
+rouge_score>=0.1.2
+scikit-learn<1.7
+pandas
+numpy
+matplotlib
+tqdm
